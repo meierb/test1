@@ -2,14 +2,7 @@ demo 2
 ABC
 --- clocks datarate ----------------------------------
 
-* FPGA Clock
-f_CLOCK = 10 MHz
-f_clk   = 40 MHz
 
-* SPI
-Bit Rate  2Mb/s
-500 ns / bit
-4 us / Byte
 
 --- Commands --------------------------------------------------------------------
 
